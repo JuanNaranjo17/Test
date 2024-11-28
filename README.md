@@ -1,5 +1,3 @@
-# Test
-
 <table style="width:100%;">
 
 <colgroup>
@@ -159,7 +157,7 @@
 <td></td>
 <td></td>
 <td><blockquote>
-<p>↑H</p>
+<td>↑H</td>
 </blockquote></td>
 <td></td>
 <td></td>
@@ -201,7 +199,7 @@
 <td></td>
 <td></td>
 <td><blockquote>
-<p>↑Q</p>
+<td>↑Q</td>
 </blockquote></td>
 <td></td>
 <td></td>
@@ -230,7 +228,7 @@
 <td></td>
 <td></td>
 <td><blockquote>
-<p>↑Q</p>
+<td>↑Q</td>
 </blockquote></td>
 </tr>
 <tr class="even">
