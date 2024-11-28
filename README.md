@@ -227,8 +227,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><blockquote>
-<p>↑Q</p>
+<td>↑Q</td>
 </blockquote></td>
 </tr>
 <tr class="even">
