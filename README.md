@@ -228,7 +228,6 @@
 <td></td>
 <td></td>
 <td>↑Q</td>
-</blockquote></td>
 </tr>
 <tr class="even">
 <td>time</td>
